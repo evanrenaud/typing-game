@@ -1,4 +1,4 @@
-# L-Type (Lava/Laser Type)
+# Lava Typer
 [App Website](https://lava-typer.herokuapp.com)
 
 ## Team
@@ -9,17 +9,17 @@
 - [Jung Choi](https://github.com/mr-jungchoi)
 
 ## Description
-L-Type is a javascript game that allows users to practice and improve their typing speed and accuracy through a fun and competitive game.
+Lava Typer is a javascript game that allows users to practice and improve their typing speed and accuracy through a fun and competitive game.
 
 ## MVP
-- A playable javascript game where words are falling and the player has to type in the words before they hit the "lava" to gain points. If a word hits the "lava" the player loses a life.
+- A playable javascript game where words are falling and the player has to type in the words before they hit the lava to gain points. If a word hits the lava, the player loses a life.
 - Players can create an account and save their game statistics, such as:
   - High Score
   - Type Speed (in words per minute)
   - Accuracy (as a percentage)
 
 ## Extra Features (future development)
-- Add varying difficulty levels
+- Add additional categories
 - Incorporate bonus features or power ups that the user can use:
   - Extra lives
   - A "bomb" that will clear the screen
